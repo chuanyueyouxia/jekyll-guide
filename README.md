@@ -1,7 +1,7 @@
 # jekyll-guide
 
 因为gist.github被墙，所以下载了biezhi分享的jekyll-guide.md，转载到自己的仓库
-https://github.com/chuanyueyouxia/jekyll-guide/blob/master/README.md
+https://github.com/chuanyueyouxia/jekyll-guide/blob/master/jekyll-guide.md
 
 来源：https://git.io/fA9kQ
 
